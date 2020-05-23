@@ -9,10 +9,6 @@
 
 package TextMagic
 
-import (
-	"time"
-)
-
 type MessageTemplate struct {
 	// Template ID.
 	Id int32 `json:"id"`
