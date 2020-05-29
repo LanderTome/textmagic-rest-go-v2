@@ -9,10 +9,6 @@
 
 package TextMagic
 
-import (
-	"time"
-)
-
 type UserCustomField struct {
 	// Custom field ID.
 	Id int32 `json:"id"`
