@@ -19,5 +19,5 @@ type UserCustomField struct {
 	// Custom field name.
 	Name string `json:"name"`
 	// Custom field creation time.
-	CreatedAt time.Time `json:"createdAt"`
+	// CreatedAt time.Time `json:"createdAt"`
 }
